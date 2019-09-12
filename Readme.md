@@ -16,5 +16,16 @@ These are the main component of our project. When a person is permitted to enter
 ## Demonstration
 ![ezgif com-optimize](https://user-images.githubusercontent.com/32337334/64801847-2944a800-d5ab-11e9-9ad1-fcbf237242a1.gif)
 
+## Control Process
+
+### Detect face
+![image](https://user-images.githubusercontent.com/32337334/64805335-f0292980-d5e4-11e9-91f0-27eae892964f.png)
+
+### Train Persons
+![image](https://user-images.githubusercontent.com/32337334/64805460-3c746980-d5e5-11e9-9d7e-1637309a8ac8.png)
+
+### Usage
+![image](https://user-images.githubusercontent.com/32337334/64805647-ab51c280-d5e5-11e9-9002-6c00516dba7e.png)
+
 ## Project Video
 [![Watch the video](https://user-images.githubusercontent.com/32337334/64802813-4da18400-d5ad-11e9-8513-bcc1f44d0956.png)](https://www.youtube.com/watch?v=DI_ETO_g7pw)
