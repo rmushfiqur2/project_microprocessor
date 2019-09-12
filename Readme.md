@@ -17,4 +17,4 @@ These are the main component of our project. When a person is permitted to enter
 ![ezgif com-optimize](https://user-images.githubusercontent.com/32337334/64801847-2944a800-d5ab-11e9-9ad1-fcbf237242a1.gif)
 
 ## Project Video
-![Watch the video](https://user-images.githubusercontent.com/32337334/64802192-ed5e1280-d5ab-11e9-90dc-02a72e88b212.png)](https://www.youtube.com/watch?v=DI_ETO_g7pw)
+[![Watch the video](https://user-images.githubusercontent.com/32337334/64802192-ed5e1280-d5ab-11e9-90dc-02a72e88b212.png)](https://www.youtube.com/watch?v=DI_ETO_g7pw)
