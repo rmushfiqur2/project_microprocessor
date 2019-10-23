@@ -29,3 +29,6 @@ These are the main component of our project. When a person is permitted to enter
 
 ## Project Video
 [![Watch the video](https://user-images.githubusercontent.com/32337334/64802813-4da18400-d5ad-11e9-8513-bcc1f44d0956.png)](https://www.youtube.com/watch?v=DI_ETO_g7pw)
+
+## Contact Info
+[Mail Us](mailto:rmushfiqur2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
